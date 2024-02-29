@@ -81,7 +81,7 @@ if (isset($_GET['fotoid'])) {
     <hr>
 
     <div class="row">
-      <div class="col-sm-3 bg-body-tertiary">
+      <div class="col-sm-3">
         <h3>Foto</h3>
         <form action="foto_edit.php" method="POST" enctype="multipart/form-data">
           <div class="mb-3 mt-3">
