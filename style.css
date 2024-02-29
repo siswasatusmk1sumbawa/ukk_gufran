@@ -1,0 +1,16 @@
+body {
+ background: linear-gradient(to bottom right, #ffffff 18%, #66ccff 100%);
+background-size: cover;
+height: 100vh;
+width: 100%;
+
+
+}
+
+h1 {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight:1000;
+    font-style: normal;
+
+}
